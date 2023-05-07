@@ -42,7 +42,7 @@ money-cost: 0.0 __ power-cost: -30.0 __ way: walk
 It contains 8 stations and 11 routes
 Coins 16000 and energy 4
 
-** 1- Min Money, Power less than myPower **
+__ 1- Min Money, Power less than myPower __
 4- start-station-id: 6 -- end-station-id: home
 money-cost: 400.0 __ power-cost: -400.0 __ way: buss
 3- start-station-id: 5 -- end-station-id: 6
@@ -52,10 +52,10 @@ money-cost: 0.0 __ power-cost: -260.0 __ way: walk
 1- start-station-id: start -- end-station-id: 3
 money-cost: 0.0 __ power-cost: -150.0 __ way: walk
 
-* Process time 21 ms *
-* Visited root 9 *
+* Process time 21 ms 
+* Visited root 9 
 
-** 2- Min Time, Max Power, Min Money **
+__ 2- Min Time, Max Power, Min Money __
 3- start-station-id: 6 -- end-station-id: home 
 money-cost: 0.0 __ power-cost: -500.0 __ way: walk
 2- start-station-id: 1 -- end-station-id: 6 
@@ -63,5 +63,5 @@ money-cost: 0.0 __ power-cost: -300.0 __ way: walk
 1- start-station-id: start -- end-station-id: 1 
 money-cost: 0.0 __ power-cost: -150.0 __ way: walk
 
-* Process time 19 ms *
-* Visited root 14 *
+* Process time 19 ms 
+* Visited root 14 
