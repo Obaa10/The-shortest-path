@@ -1,4 +1,4 @@
-# the-short-path
+# the-shortest-path
 ## About this app
 Kalid wants to go from university to home.
 He has limited time, power, and money.
